@@ -1,0 +1,6 @@
+{
+  "npm.packageManager": "bun",
+  "npm.scriptExplorerExclude": [":"],
+  "cSpell.words": ["robotstxt", "wght"],
+  "markdownlint.config": {}
+}

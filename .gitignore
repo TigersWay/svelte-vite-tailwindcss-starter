@@ -1,0 +1,12 @@
+# Windows & helpers, IDE & Personal preferences
+desktop.ini
+folder.ico
+.keep/
+
+# Dependency files & directories (p/npm)
+node_modules/
+
+# Project's specific files & directories
+dist/
+
+!gitkeep
